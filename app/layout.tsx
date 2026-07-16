@@ -21,9 +21,9 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Guilhermy Deveza — Software Engineer",
+  title: "Guilhermy Deveza — Full Stack Developer",
   description:
-    "Portfólio de Guilhermy Deveza (Veloso), desenvolvedor Full Stack. Projetos selecionados, stack e contato.",
+    "Portfólio de Guilhermy Deveza, desenvolvedor Full Stack. Projetos selecionados, stack e contato.",
 };
 
 export default function RootLayout({
